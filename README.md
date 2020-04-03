@@ -44,6 +44,11 @@
 - Twitter Social Login
 - Linking Social Logins to one Account
 
+# Deploy react apps to Firebase
+
+https://www.robinwieruch.de/firebase-deploy-react-js/
+
+
 # Link refer:
 
 https://react-firebase-js.com/docs/react-firebase-auth/getting-started?fbclid=IwAR2w-mw7LzaXiCVjtdFST8AnW181wPd7xAO-jTn-l-i-nQADPnQLs-vmgPU
